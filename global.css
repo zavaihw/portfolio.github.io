@@ -36,3 +36,10 @@
     height: 100px;
     color: white;
   }
+  .front{
+  color: white;
+  float: left;
+  width: 25%;
+  padding: 10px;
+
+  }
