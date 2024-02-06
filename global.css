@@ -37,9 +37,9 @@
     color: white;
   }
   .front{
-  color: white;
-  float: left;
-  width: 25%;
-  padding: 10px;
-
+    position: absolute;
+    top: 300px;
+    right: 675px;
+    width: 200px;
+    height: 100px;
   }
